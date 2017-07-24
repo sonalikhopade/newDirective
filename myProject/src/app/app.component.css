@@ -1,0 +1,36 @@
+/*.container{
+margin: 80px;
+}
+
+.container #myForm{
+ background-color: #d3d3d3;
+}
+
+div,span{
+    color: blue;
+}
+
+button:hover{
+margin: 20px;
+color: red;
+}
+.container #myForm .numberWrap{
+
+    margin-top:60px; 
+
+}
+
+.container #myForm .numberWrap.myUl li{
+    color: red;
+    font-size: smaller;
+}
+
+.container #myForm .numberWrap li{
+    color: #424242;
+}
+
+li{
+    font-size: 20px;
+}
+
+*/
